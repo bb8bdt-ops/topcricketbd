@@ -1,0 +1,10 @@
+title: TopCricketBD
+description: বাংলাদেশ ক্রিকেট বিশ্লেষণ ও গেমিং
+baseurl: "/topcricketbd"
+url: "https://bb8bdt-ops.github.io"
+lang: bn
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
